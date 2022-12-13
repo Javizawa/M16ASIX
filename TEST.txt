@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 PRUEBA DE GIT
 
 
 TEST
+=======
+
+HOLA
+>>>>>>> 45e8cddb70c977c3aa08242913be91f1e3bd8edb
