@@ -21,6 +21,9 @@ bool heroIsAlive = true;
 int volume = 0;
 
 
+
+
+
 void gameStart() {
     cout << "El enemigo " << enemyName << " ha aparecido\n";
     cout << "Como se llama el heroe?\n";
