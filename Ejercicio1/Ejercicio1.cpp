@@ -17,6 +17,9 @@ int heroDamage;
 string heroName;
 bool heroIsAlive = true;
 
+//variables para controlar el juego
+int volume = 0;
+
 
 void gameStart() {
     cout << "El enemigo " << enemyName << " ha aparecido\n";
